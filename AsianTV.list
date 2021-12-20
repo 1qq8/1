@@ -1,0 +1,28 @@
+# (AsianTV)
+# > Bilibili
+DOMAIN-KEYWORD,bilibili,AsianTV
+DOMAIN-SUFFIX,acg.tv,AsianTV
+DOMAIN-SUFFIX,acgvideo.com,AsianTV
+DOMAIN-SUFFIX,b23.tv,AsianTV
+DOMAIN-SUFFIX,biliapi.com,AsianTV
+DOMAIN-SUFFIX,biliapi.net,AsianTV
+DOMAIN-SUFFIX,bilibili.com,AsianTV
+DOMAIN-SUFFIX,biligame.com,AsianTV
+DOMAIN-SUFFIX,biligame.net,AsianTV
+DOMAIN-SUFFIX,hdslb.com,AsianTV
+DOMAIN-SUFFIX,im9.com,AsianTV
+
+# > IQIYI
+DOMAIN-KEYWORD,qiyi,AsianTV
+DOMAIN-SUFFIX,qy.net,AsianTV
+
+# > letv
+DOMAIN-SUFFIX,api.mob.app.letv.com,AsianTV
+
+# > NeteaseMusic
+DOMAIN-SUFFIX,163yun.com,AsianTV
+DOMAIN-SUFFIX,music.126.net,AsianTV
+DOMAIN-SUFFIX,music.163.com,AsianTV
+
+# > Tencent Video
+DOMAIN-SUFFIX,vv.video.qq.com,AsianTV
